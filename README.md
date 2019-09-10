@@ -1,0 +1,1 @@
+_This is a project about setting and getting to work Vagrant, virtualbox and Git_
